@@ -57,7 +57,7 @@ Featured Products: Showcases selected furniture products.
 
  Front-end development completed.
 
-## 7. Live Demo:   .
+## 7. Live Demo:   https://rocker-modern-furniture-store.vercel.app/#.
 
 
 ## 8. Future Improvements
